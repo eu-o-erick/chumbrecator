@@ -1,2 +1,2 @@
-# -chumbrecator
+# chumbrecator
 movie organizer
